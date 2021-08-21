@@ -1,6 +1,6 @@
 # Shiny Server
 
-This docker image is base on version: 1.5.16.958 of shiny-server
+This docker image has version: 1.5.16.958 of shiny-server
 
 ## How to use it
 
